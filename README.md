@@ -5,6 +5,6 @@ There are two main directories, SEMIC and BonArea. Every directory was a challen
 
 SEMIC challenge was a series of small challenges, puzzles and coding.
 
-BonÀrea challenge was a data science project, where we have to predict why some clients were stopping buying at their stores. In that challenge we used different machine learning models and we did a data analysis in R to give to the client (Bon Àrea) understanding of their own data.
+BonÀrea challenge was a data science project, where we have to predict why some clients were stopping buying at their stores. In that challenge we used different machine learning models and we did a data analysis in R to give to the client (Bon Àrea) understanding of their own data. Data is not avaliable in this repository due privacy and strategic terms of BonÀrea.
 
 
